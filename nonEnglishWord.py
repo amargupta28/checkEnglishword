@@ -1,7 +1,3 @@
-# with open('song.txt','r') as f:
-#     line = f.readlines()
-#     print(line)
-
 import enchant
 import re
 
